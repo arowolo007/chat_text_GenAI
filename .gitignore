@@ -2,10 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+my_env
 # C extensions
 *.so
-
+text_input.txt
 # Distribution / packaging
 .Python
 build/
